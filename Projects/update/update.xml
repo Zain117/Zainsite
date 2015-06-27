@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<update name="DLBOX">
+    <name>DLBOX</name>
+    <version>04</version>
+    <link update="blahblah">
+</update>
